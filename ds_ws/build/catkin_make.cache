@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/media/evan/Common/Dev/Code/ros_ds/ds_ws/devel -DCMAKE_INSTALL_PREFIX=/media/evan/Common/Dev/Code/ros_ds/ds_ws/install -G Unix Makefiles
